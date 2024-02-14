@@ -1,4 +1,4 @@
-# Federated-Learning-for-Fine-Tuning-Large-Language-Models
+# Federated Learning for Fine-Tuning LLM
 
 Prerequisites
 We ran our experiments on 4 RTX 6000 GPUs.
