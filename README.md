@@ -4,6 +4,8 @@
 1. We ran our experiments on 4 RTX 6000 GPUs.
 1. Python3.9+
 1. `pip install -r requirements.txt`
+## Architecture
+<img width="854" alt="截圖 2024-02-14 下午2 19 06" src="https://github.com/chingyuan1215/Federated-Learning-for-Fine-Tuning-Large-Language-Models/assets/65063401/23026dd9-7e6b-4e79-a13c-85f11d49767a">
 
 ## Steps to run
 ### Run teacher pre-training
