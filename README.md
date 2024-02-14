@@ -61,3 +61,7 @@ We used datasets within the [`GLUE` benchmark](https://gluebenchmark.com/).
 
 ## Performance measurement
 We evaluate all the schemes (FedAvg, FedLora, FedKDLora) via accuracy and loss with respect to the test dataset at every communication round. We also time the total runtime of each scheme.
+
+
+<img width="853" alt="截圖 2024-02-14 下午2 19 24" src="https://github.com/chingyuan1215/Federated-Learning-for-Fine-Tuning-Large-Language-Models/assets/65063401/39976f37-fc20-42a5-abe9-bdcc0c2e6d89">
+
